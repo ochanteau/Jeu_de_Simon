@@ -1,0 +1,20 @@
+.carre {
+    display: inline-block;
+    width:200px;
+    height:200px;
+    background-color:#ccc;
+    cursor:pointer;
+  }
+  
+  .bleu {
+    background-color:blue;
+  }
+  .rouge {
+    background-color:red;
+  }
+  .vert {
+    background-color:green;
+  }s
+  .jaune {
+    background-color:yellow;
+  }
